@@ -6,8 +6,8 @@
 
 
 Eu sou um estudante de Desenvolvimento de Sistemas no Maria Carmem. 
-Eu sei programar de forma amadora em pyton e portugol mas pretendo aprender outras linguagens de programação como java e c++. 
-Eu penso em seu um engenheiro de software no futuro e me aprofundar na área com especialização, mestrado e talvez doutorado 
+Eu sei programar de forma amadora em Python e Portugol mas pretendo aprender outras linguagens de programação como Java script e C++. 
+Eu penso em ser um engenheiro de software no futuro e me aprofundar na área com especialização, mestrado e talvez doutorado 
 
 
 
